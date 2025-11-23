@@ -6,14 +6,17 @@ The projects are organized into folders so you can easily explore and run each o
 Most program's scripts are short. Each program is of diiferent theam. I belive they are great examples of simple and beginner-friendly coding.
 
 What’s inside?
+
     Basic syntax exercises
     Logical challenges
     Problem-solving tasks
 
 Each sub-folder typically includes:
+
     main.py — The Python script
     README.md — Short explanation of the project and how to run it.
 
 Requirement:
+
     Make sure Python is installed on your machine.
     You need a Code editor.

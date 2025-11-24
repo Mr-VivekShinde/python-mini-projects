@@ -15,3 +15,10 @@ ans: Body Mass Index (BMI) is a measure of body fat based on an individual's wei
 
 
 
+ex: A person is of 73kg and 170cm high.
+
+    BMI=(73/(1.7*1.7))
+       =25.25
+
+    His BMI-index value is: 25.25
+    He falls into the "overweight" category.
